@@ -1,6 +1,6 @@
 name: test-action
 on: 
-  workflow.dispatch:
+  workflow_dispatch:
 
 jobs:
   test-1:  
